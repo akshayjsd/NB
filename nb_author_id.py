@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-    This is the code to accompany the Lesson 1 (Naive Bayes) mini-project.
+    Understanding Naive Bayes from Udacity's Intro to ML
 
     Use a Naive Bayes Classifier to identify emails by their authors
 
